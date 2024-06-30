@@ -1,0 +1,5 @@
+Open and run "Train using T5 model.ipynb"
+Save model files at end
+Open User_demo.ipynb
+Uplaod model files created in prior step
+run the notebook

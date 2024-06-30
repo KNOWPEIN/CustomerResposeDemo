@@ -1,0 +1,3 @@
+Open the notebook.
+Update the openai api key with your API key
+run notebbok
